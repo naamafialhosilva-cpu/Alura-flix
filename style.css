@@ -1,5 +1,9 @@
 body{
 background-color: rgb(6, 247, 247); 
     color: cornflowerblue;
-    font-family:'Courier New', Courier, monospace;
+    font-family: "Roboto Mono", monospace;
+}
+
+header{
+    font: size 80px;
 }
