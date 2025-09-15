@@ -5,5 +5,14 @@ background-color: rgb(6, 247, 247);
 }
 
 header{
-    font: size 80px;
+    font-size: 80px;
+    border: double 5px cornflowerblue;
+}
+
+h1{
+    font-size: 50px;
+}
+
+p{
+    font-size: 30px;
 }
